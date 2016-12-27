@@ -1,0 +1,132 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #fff
+}
+
+.container1{
+  background-color: rgb(212,61,43);
+opacity: 90%;
+height: 70px;
+width: 1280px;
+background-repeat: no-repeat;
+background-size: cover;
+width: auto;
+
+}
+.logo-container{
+  float: left;
+  position: relative;
+  height: 66px;
+  width: 170px;
+  margin-left: 90px;
+}
+  .logo-containerp{
+    position: absolute;
+    top: 25px;
+    left: 55px;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #fff
+}
+.navigation{
+  float: right;
+  height: 30px;
+  margin-right: 88px;
+  padding: 27px;
+  position: relative;
+}
+.navigation .kopa{
+  padding: 24px 10px 27px;
+  font-size: 14px;
+  font-weight: lighter;
+  color: #fff;
+  text-decoration: none;
+}
+  .container2{
+  /*background-color: rgb(212,70,43);*/
+  background-image: url("Mood_Creations22.png");
+  background-repeat: no-repeat;
+  height: 750px;
+  background-size: cover;
+}
+.Logotext{
+  width: 933px;
+  margin: 130px auto 50px;
+  position: relative;
+
+}
+.text{
+  text-align: center;
+  font-size: 20px;
+  line-height: 25px;
+}
+.socslaids{
+  width: 250px;
+  height: 65px;
+  margin-top: 80px;
+  margin: 0 auto;
+  position: relative;
+
+}
+.socslaids img{
+  opacity: 0.5;
+  margin: 0 15px 0 15px;
+  padding-top: 40px;
+}
+.a:hover{
+  background-color: #fff;
+  text-decoration: none;
+  cursor: auto;
+}
+
+.container3{
+    background-color: rgb(211,53,35);
+background-repeat: no-repeat;
+background-size: cover;
+    height: 580px;
+    width: auto;
+}
+.container4{
+ background-image: url("zals.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+  height: 420px;
+}
+.container5{
+  background-image: url("pictures.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.container6{
+  background-image: url("blue.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 280px;
+}
+.container7{
+  background-color: rgb(42,87,89);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 520px;
+  width: 1280px;
+}
+°.container8{
+  background-color: rgb(87,170,104);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 860px;
+  width: 1280px;
+}
+.container9{
+  background-image: url("darkblue.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 720px;
+}
+.map-container iframe{
+  width: 100%;
+  border: 0;
+  height: 100%;
+  width: 1280px;
+}
